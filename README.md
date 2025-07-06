@@ -1,3 +1,5 @@
 # flutter_buku_app
 
-A new Flutter project.
+Lakukan Perintah ini untuk memodifikasi aplikasi :
+flutter pub get
+flutter run
