@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Tentang Kita: Berani",
+    "subtitle": "Direktoran Bina Ketahanan Remaja BKKBN dengan Johns Hopkins Center for Communication Programs Tahun 2020",
+    "rating": 5.0,
+    "description": "Modul Perencanaan Masa Depan dan Kesehatan Reprosuksi untuk Pendidik Sebaya Remaja Usia 10 - 14 Tahun",
+    "image": "assets/images/berani.jpg",
+    "link": "https://drive.google.com/uc?export=download&id=128rs01S9dk0J57pFyyZGZJdtFP2a0MEv"
+  },
+  {
+    "title": "Tentang Kita: Beraksi",
+    "subtitle": "Direktoran Bina Ketahanan Remaja BKKBN dengan Johns Hopkins Center for Communication Programs Tahun 2020",
+    "rating": 5.0,
+    "description": "Modul Perencanaan Masa Depan dan Kesehatan Reprosuksi untuk Pendidik Sebaya Remaja Usia 15 - 19 Tahun",
+    "image": "assets/images/beraksi.jpg",
+    "link": "https://drive.google.com/uc?export=download&id=1pu1nA2xbx8GMbrErQ8YIGQvGj0j6C-kN"
+  },
+  {
+    "title": "Tentang Kita: Berkolaborasi",
+    "subtitle": "Direktoran Bina Ketahanan Remaja BKKBN dengan Johns Hopkins Center for Communication Programs Tahun 2020",
+    "rating": 5.0,
+    "description": "Modul Perencanaan Masa Depan dan Kesehatan Reprosuksi untuk Pendidik Sebaya Remaja Usia 20 - 24 Tahun",
+    "image": "assets/images/berkolaborasi.jpg",
+    "link": "https://drive.google.com/uc?export=download&id=1BZfQnId7FONfxSl4T1VCQKBHOhMrSrh2"
+  },
+  {
+    "title": "Tentang Kita: Kurikulum Pelatihan Pendidik Sebaya",
+    "subtitle": "Direktoran Bina Ketahanan Remaja BKKBN dengan Johns Hopkins Center for Communication Programs Tahun 2020",
+    "rating": 5.0,
+    "description": "Kurikulum Pelatihan Pendidik Sebaya Di Pusat Informasi dan Konseling Remaja",
+    "image": "assets/images/kpps.jpg",
+    "link": "https://drive.google.com/uc?export=download&id=1Ti42UYDiEjG9BynrE7-0ZtJXxHEbAUKW"
+  },
+  {
+    "title": "Modul Edukasi dan Aksi Remaja Untuk Gizi dan Pencegahan Anemia",
+    "subtitle": "Direktoran Bina Ketahanan Remaja BKKBN dengan Johns Hopkins Center for Communication Programs Tahun 2023",
+    "rating": 5.0,
+    "description": "Diadaptasi dari 'Panduan Advokasi Remaja' yang dikembangkan oleh Global Alliance for Improved Nutrition (GAIN)",
+    "image": "assets/images/gizi.jpg",
+    "link": "https://drive.google.com/uc?export=download&id=1dZReUP1rCN-nmdWebLMaDsDDZ_UxiSvw"
+  },
+  {
+    "title": "Aku Bangga Jadi Diriku",
+    "subtitle": "Direktoran Bina Ketahanan Remaja BKKBN 2021",
+    "rating": 5.0,
+    "description": "Buku Pengantar Fasilitator Panduan Belajar Life Skill Bagi Remaja",
+    "image": "assets/images/bangga.jpg",
+    "link": "https://drive.google.com/uc?export=download&id=1NU2e6RZf8UwaFu64tJP1Oo1jUJTYRrS5"
+  }
+]
